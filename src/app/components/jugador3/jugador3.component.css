@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+
+.p {
+    margin: 0 auto;
+    padding: 20px;
+    width: 60%;
+    font-size: 20px;
+}
+
+.botonA a {
+    background-color: #8eaa82;
+    border-radius: 10px;
+    border-color: #8eaa82;
+}
+
+.btn {
+    float: right;
+    margin-top: -59px;
+}
+
+.ca {
+    margin: 0 auto;
+    background-color: #8eaa82;
+    width: 70%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
